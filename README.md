@@ -1,4 +1,27 @@
-Advanced Computer Programing Project
-Proposal A16
-Group ID: ACP2019-A16
-Academic Year : 2019
+Super Mario Bros Level 1
+=============
+
+An attempt to recreate the first level of Super Mario Bros.
+
+CONTROLS: 
+
+'a', 's', 'd' keys for direction
+
+'Spacebar' for jump
+
+'Left shift' for action (fireball, run)
+
+
+DEPENDENCIES:
+
+Pygame 1.9.1 (Python 2)
+
+Pygame 1.9.2 (Python 3) - a little trickier to get going.
+
+To install dependencies for Python 2.x:
+
+	pip install -r requirements.txt
+   
+DISCLAIMER:
+
+This project is intended for non-commercial educational purposes.
